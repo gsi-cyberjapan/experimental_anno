@@ -15,12 +15,12 @@ experimental_anno
 # データについて
 提供範囲は日本全国になります。月1回程度更新予定です。
 
-データの内容の詳細は、電子国土基本図 地図情報　ファイル仕様書(PDFファイル)（http://www.gsi.go.jp/common/000187333.pdf ）等をご覧ください。
+データの内容の詳細は、電子国土基本図 地図情報　ファイル仕様書(PDFファイル)（ http://www.gsi.go.jp/common/000187333.pdf ）等をご覧ください。
 
 
 # デモサイト
 地理院地図
-https://maps.gsi.go.jp/?ll=35.682503,139.789245&z=16&base=ort&ls=experimental_anno&cd=f4&vs=c1j0l0u0&d=l
+https://maps.gsi.go.jp/#16/35.682503/139.789245/&base=ort&ls=ort%7Cexperimental_anno&disp=11&vs=c1j0l0u0t0z0r0f0&d=l
 
 github
 https://gsi-cyberjapan.github.io/experimental_anno/
