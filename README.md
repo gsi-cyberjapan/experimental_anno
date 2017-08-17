@@ -6,11 +6,11 @@ experimental_anno
 いたします。データの仕様は次のとおりです。
 
 ## 地図情報（注記）
-テンプレート URL: http://cyberjapandata.gsi.go.jp/xyz/experimental_anno/{z}/{x}/{y}.geojson
+テンプレート URL: https://cyberjapandata.gsi.go.jp/xyz/experimental_anno/{z}/{x}/{y}.geojson
 
-サンプル：http://cyberjapandata.gsi.go.jp/xyz/experimental_anno/15/29106/12903.geojson
+サンプル：https://cyberjapandata.gsi.go.jp/xyz/experimental_anno/15/29106/12903.geojson
 
-ベクトルタイルスタイル定義：http://cyberjapandata.gsi.go.jp/xyz/experimental_anno/style.js
+ベクトルタイルスタイル定義：https://cyberjapandata.gsi.go.jp/xyz/experimental_anno/style.js
 
 # データについて
 提供範囲は日本全国になります。月1回程度更新予定です。
@@ -20,10 +20,10 @@ experimental_anno
 
 # デモサイト
 地理院地図
-http://maps.gsi.go.jp/?ll=35.682503,139.789245&z=16&base=ort&ls=experimental_anno&cd=f4&vs=c1j0l0u0&d=l
+https://maps.gsi.go.jp/?ll=35.682503,139.789245&z=16&base=ort&ls=experimental_anno&cd=f4&vs=c1j0l0u0&d=l
 
 github
-http://gsi-cyberjapan.github.io/experimental_anno/
+https://gsi-cyberjapan.github.io/experimental_anno/
 
 
 # 提供の位置づけ
