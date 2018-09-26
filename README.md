@@ -13,7 +13,7 @@ experimental_anno
 ベクトルタイルスタイル定義：https://cyberjapandata.gsi.go.jp/xyz/experimental_anno/style.js
 
 # データについて
-提供範囲は日本全国になります。月1回程度更新予定です。
+提供範囲は日本全国になります。
 
 データの内容の詳細は、電子国土基本図 地図情報　ファイル仕様書(PDFファイル)（ http://www.gsi.go.jp/common/000187333.pdf ）等をご覧ください。
 
